@@ -36,9 +36,9 @@
 	"applicationProfiles": [
 		{
 			"name": "Default Profile",
-			"ahkHandles": [
-				"regApps"
-			],
+"ahkHandles": [
+"ahk_group regApps"
+],
 			"enabled": true,
 			"profileToggle": {
 				"enabled": false,
@@ -362,9 +362,9 @@
 			"applicationProfiles": [
 				{
 					"name": "Default Profile",
-					"ahkHandles": [
-						"regApps"
-					],
+"ahkHandles": [
+"ahk_group regApps"
+],
 					"enabled": true,
 					"pieMenus": [
 						{
